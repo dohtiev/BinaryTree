@@ -1,0 +1,306 @@
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\testhost.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\testhost.exe
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\nunit.engine.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\nunit.engine.api.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\nunit.engine.core.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\TestProject1.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\TestProject1.pdb
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\nunit.framework.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Lab_14.exe
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Lab_14.pdb
+G:\project C#\++++\TestProject1\bin\Debug\net6.0\Lab_14.exe.config
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CopyComplete
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.dll
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.pdb
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+G:\project C#\++++\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\testhost.exe
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\testhost.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.exe
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.exe.config
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CopyComplete
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\testhost.exe
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\testhost.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.api.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\nunit.engine.core.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\TestProject1.pdb
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\nunit.framework.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.exe
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.pdb
+D:\yniver22\kursach\Project\Project\TestProject1\bin\Debug\net6.0\Lab_14.exe.config
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CopyComplete
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.dll
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.pdb
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+D:\yniver22\kursach\Project\Project\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll

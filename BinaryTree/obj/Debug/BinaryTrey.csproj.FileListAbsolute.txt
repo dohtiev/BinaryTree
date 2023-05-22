@@ -1,0 +1,44 @@
+G:\project C#\++++\Lab_14\bin\Debug\Lab_14.exe.config
+G:\project C#\++++\Lab_14\bin\Debug\Lab_14.exe
+G:\project C#\++++\Lab_14\bin\Debug\Lab_14.pdb
+G:\project C#\++++\Lab_14\obj\Debug\BinaryTrey.csproj.AssemblyReference.cache
+G:\project C#\++++\Lab_14\obj\Debug\BinaryTrey.csproj.SuggestedBindingRedirects.cache
+G:\project C#\++++\Lab_14\obj\Debug\BinaryTrey.MainWindow.resources
+G:\project C#\++++\Lab_14\obj\Debug\Lab_14.Properties.Resources.resources
+G:\project C#\++++\Lab_14\obj\Debug\BinaryTrey.csproj.GenerateResource.cache
+G:\project C#\++++\Lab_14\obj\Debug\BinaryTrey.csproj.CoreCompileInputs.cache
+G:\project C#\++++\Lab_14\obj\Debug\Lab_14.exe
+G:\project C#\++++\Lab_14\obj\Debug\Lab_14.pdb
+G:\project C#\++++\BinaryTree\bin\Debug\Lab_14.exe.config
+G:\project C#\++++\BinaryTree\bin\Debug\Lab_14.exe
+G:\project C#\++++\BinaryTree\bin\Debug\Lab_14.pdb
+G:\project C#\++++\BinaryTree\obj\Debug\BinaryTrey.csproj.AssemblyReference.cache
+G:\project C#\++++\BinaryTree\obj\Debug\BinaryTrey.csproj.SuggestedBindingRedirects.cache
+G:\project C#\++++\BinaryTree\obj\Debug\BinaryTrey.MainWindow.resources
+G:\project C#\++++\BinaryTree\obj\Debug\Lab_14.Properties.Resources.resources
+G:\project C#\++++\BinaryTree\obj\Debug\BinaryTrey.csproj.GenerateResource.cache
+G:\project C#\++++\BinaryTree\obj\Debug\BinaryTrey.csproj.CoreCompileInputs.cache
+G:\project C#\++++\BinaryTree\obj\Debug\Lab_14.exe
+G:\project C#\++++\BinaryTree\obj\Debug\Lab_14.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\bin\Debug\Lab_14.exe.config
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\bin\Debug\Lab_14.exe
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\bin\Debug\Lab_14.pdb
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.AssemblyReference.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.SuggestedBindingRedirects.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\BinaryTrey.MainWindow.resources
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\Lab_14.Properties.Resources.resources
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.GenerateResource.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.CoreCompileInputs.cache
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\Lab_14.exe
+C:\Users\edoht\OneDrive\Рабочий стол\Project\Project\BinaryTree\obj\Debug\Lab_14.pdb
+D:\yniver22\kursach\Project\Project\BinaryTree\bin\Debug\Lab_14.exe.config
+D:\yniver22\kursach\Project\Project\BinaryTree\bin\Debug\Lab_14.exe
+D:\yniver22\kursach\Project\Project\BinaryTree\bin\Debug\Lab_14.pdb
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.AssemblyReference.cache
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.SuggestedBindingRedirects.cache
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\BinaryTrey.MainWindow.resources
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\Lab_14.Properties.Resources.resources
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.GenerateResource.cache
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\BinaryTrey.csproj.CoreCompileInputs.cache
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\Lab_14.exe
+D:\yniver22\kursach\Project\Project\BinaryTree\obj\Debug\Lab_14.pdb
